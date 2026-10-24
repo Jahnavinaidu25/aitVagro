@@ -1,0 +1,6 @@
+{
+  "name": "VAgriConnect - Kisan Enterprise & Agri-Mobility Platform",
+  "description": "Connecting farmers, machinery fleet owners, and agricultural workforce through an intelligent, multi-lingual, GPS-integrated leasing and escrow grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
